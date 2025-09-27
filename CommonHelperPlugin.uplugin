@@ -18,6 +18,11 @@
 			"Name": "CommonHelperPlugin",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "InstancedStaticMeshHelper",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
